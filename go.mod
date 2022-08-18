@@ -1,4 +1,4 @@
-module socks2http
+module github.com/briteming/socks2http-1
 
 go 1.13
 
